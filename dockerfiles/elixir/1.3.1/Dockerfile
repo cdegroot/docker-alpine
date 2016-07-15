@@ -1,5 +1,5 @@
-FROM msaraiva/erlang:18.3
-MAINTAINER Marlus Saraiva <marlus.saraiva@gmail.com>
+FROM cdegroot/rpi-erlang:19.0
+MAINTAINER Cees de Groot <casedeg@gmail.com>
 
 ENV ELIXIR_VERSION 1.3.1
 
